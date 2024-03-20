@@ -103,4 +103,6 @@ Prueba que quiero realizar desde aqui
 
 </div>
 
-Ahora me vale esta monda 
+>[!NOTE]
+> 
+> _GitHub Copilot es lo mejor_
